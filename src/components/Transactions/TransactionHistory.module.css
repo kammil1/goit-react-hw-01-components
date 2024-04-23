@@ -1,0 +1,9 @@
+.transaction-history {
+  width: 300px;
+  margin: 40px;
+  padding-bottom: 10px;
+  background-color: #eff6f7;
+  border-radius: 7px;
+  padding-left: 10px;
+  text-align: left;
+}
